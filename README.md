@@ -2,10 +2,6 @@
 <img src="https://i.postimg.cc/1zVsgQD3/Whats-App-Image-2025-03-28-at-19-34-33-ae37d6123.jpg" alt="Anshu Kumar" width="200" style="border-radius:50%;" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anshukumar71&label=Profile%20views&color=0e75b6&style=flat" alt="anshukumar71" />
-</p>
-
 <h1 align="center">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I'm Anshu Kumar
 </h1>
@@ -77,6 +73,10 @@
 
 <p align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshu-kumar-github&theme=tokyonight" alt="Anshu's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anshukumar71&label=Profile%20views&color=0e75b6&style=flat" alt="anshukumar71" />
 </p>
 
 ---
