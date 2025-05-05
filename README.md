@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.postimg.cc/1zVsgQD3/Whats-App-Image-2025-03-28-at-19-34-33-ae37d6123.jpg" alt="Anshu Kumar" width="200" style="border-radius:50%;" />
+<img src="https://i.postimg.cc/4ySZkQXD/Web-Photo-Editor-1.jpg" alt="Anshu Kumar" width="200" style="border-radius:50%;" />
 </p>
 
 <h1 align="center">
