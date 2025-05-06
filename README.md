@@ -32,7 +32,7 @@
 - 📫 How to reach me: **anshu0712@gmail.com** 
 - 👨‍💻 All of my projects are available at: **will be updated.**
 - 📝 I regularly write articles on: **Blog is building.**
-- 📄 Know about my experiences: [View My Resume](https://drive.google.com/file/d/1zp8RCPdi7HfFFkwdVPdLI8HDcjuNfgKV/view?usp=sharing)
+- 📄 Know about my experiences: [View My Resume](https://drive.google.com/file/d/1mJ0QE17kl9HzOt6kz0TjaFfh_NiWozkI/view?usp=drivesdk)
 - ⚡ Fun fact: **I'm passionate about solving technical issues, but mastering my own time management is still a goal.**
 
 ---
